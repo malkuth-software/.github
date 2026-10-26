@@ -10,8 +10,10 @@
 
 ---
 
-Malkuth Software is a unique name, which you need if you expect anyone to remember you.
-This github organization is for a set of software that dogfoods a retained toolkit library. 
+At Malkuth Software we produce useful software toolkits and example demonstration software. Our work is produced for the glory of our God, and to bless his domain, as such it is free. Because we wish to encourage adoption, it is open source. However, if you commercialize our work, or make changes to it that disrespect our coding conventions, we respectfully ask that you do not use the likeness of our software or our name in your creations, and if you sell or distribute our software with insignificant changes for a profit, we will openly shame you. We consider a change of interface, including but not limited to changing the wording or language our software is available in, to be an insignificant change. Rewriting our software in some other language is also an insignificant change. Add features, and if you do significant work that is mathematical, credit yourself, credit the holy one, and contribute a paper on it to our papers repository- it may not be arxiv but it will do.
+
+
+
 
 ## GUI.Forms
 
