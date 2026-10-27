@@ -16,7 +16,7 @@
 
 ---
 
-At Malkuth Software we produce useful software toolkits and example demonstration software. Our work is produced for the glory of our God, and to bless his domain, as such it is free. Because we wish to encourage adoption, it is open source. However, if you commercialize our work, or make changes to it that disrespect our coding conventions, we respectfully ask that you do not use the likeness of our software or our name in your creations, and if you sell or distribute our software with insignificant changes for a profit, we will openly shame you. We consider a change of interface, including but not limited to changing the wording or language our software is available in, to be an insignificant change. Rewriting our software in some other language is also an insignificant change. Add features, and if you do significant work that is mathematical, credit yourself, credit the holy one, and contribute a paper on it to our papers repository- it may not be arxiv but it will do.
+At Malkuth Software we produce useful software toolkits and example demonstration software. Our work is produced for the glory of our God, and to bless his domain, as such it is free. Because we wish to encourage adoption, much of it is open source. However, if you commercialize our work, or make changes to it that disrespect our coding conventions, we respectfully ask that you do not use the likeness of our software or our name in your creations, and if you sell or distribute our software with insignificant changes for a profit, we will openly shame you. We consider a change of interface, including but not limited to changing the wording or language our software is available in, to be an insignificant change. Rewriting our software in some other language is also an insignificant change. Add features, and if you do significant work that is mathematical, credit yourself, credit the holy one, and contribute a paper on it to our papers repository- it may not be arxiv but it will do.
 
 
 
@@ -48,11 +48,11 @@ CPU and runs the same control tree on Windows, macOS and Linux.**
 - **Pocket Library**: A library of books.
 - **Plan Paint**: A mspaint-like program, but you wont mistake it for the original.
 - **File Manager**: In progress: a native file manager, with a Rust and Go backend.
-- **WYSIWYG EDITOR**: a visual forms editor that runs in your browser, todo
+- **WYSIWYG and native EDITOR**: a nagware free program, not open source, to promote consulting conversion 
 
 ## Principles
 - decent epistemic control, no polymorphic code
-- none of that gpl shit, we're all MIT in here
+- none of that gpl shit, we're all MIT in here- except for some programs we built on the framework
 - if i can do it better i will, optimized for use
 
 ---
