@@ -1,3 +1,9 @@
+<img width="1488" height="1057" alt="477b6f2d-6f59-4632-be26-1aa89ce6e78a" src="https://github.com/user-attachments/assets/839dc0d2-b6c0-4d52-9759-19671bfcbdfe" />
+
+
+
+
+
 <div align="center">
 
 # Malkuth Software
