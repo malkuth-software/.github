@@ -8,8 +8,6 @@
 
 # Malkuth Software
 
-**Native software, built from first principles, that runs the same everywhere.**
-
 *Give glory to The Holy One, Blessed be He, from whom all good things come. To Him we attribute the ability that has provided for all good to come and be demonstrated anywhere herein as the true owner of our labor, and we declare ourselves unworthy servants who claim ownership for our prescribed time and season only. If in any way we have erred, or our work is insufficient, we ask mercy and kindness, for our effort is good and earnest.*
 
 </div>
