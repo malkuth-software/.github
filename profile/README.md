@@ -48,7 +48,8 @@ At Malkuth Software we( me and the mice in my pocket) produce useful software to
 - decent epistemic control, no polymorphic code
 - none of that gpl shit, we're all MIT in here- except for some programs we built on the framework
 - if i can do it better i will, optimized for use
-
+- https://asktog.com/atc/principles-of-interaction-design
+- https://myuxacademy.com/blog/nielsens-10-usability-heuristics/
 ---
 Special Note: 
 
