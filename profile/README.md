@@ -22,7 +22,7 @@ At Malkuth Software we( me and the mice in my pocket) produce useful software to
 
 - Familiar controls, with explicit ownership and an accessible semantic tree
   published natively on every host.
-- One text engine (HarfBuzz and FreeType, from bundled fonts), so a string
+- One text engine (our own, with compressed bundled fonts), so a string
   renders the same on every platform.
 - A theme language with CSS syntax, compiled and checked before it runs, and
   CSS-model layout panels (flex, grid and block) checked against a browser
