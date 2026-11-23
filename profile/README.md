@@ -10,18 +10,20 @@
 
 ## GUI.Forms
 
-**An open source, retained, cross platform, Windows Forms-shaped native C++20 toolkit**
+**An MIT-licensed, retained, cross platform, Windows Forms-shaped native C++20 toolkit**
 
 - Familiar controls, with explicit ownership and an accessible semantic tree
   published natively on every host.
 - One text engine (our own, with compressed bundled fonts), so a string
   renders the same on every platform.
-- A theme language with CSS syntax, compiled and checked before it runs, and
+- A dynamically loadable theme language with CSS syntax, compiled and checked before it runs, and
   CSS-model layout panels (flex, grid and block) checked against a browser
   oracle.
+- XML based forms, hand editable
 - Damage-limited painting, with no GPU and no perpetual redraw loop.
 - Extremely high speed, high correctness, tight code.
 - Model context protocol built in
+- a C, C#, C++ ABI, and wrappers for python
 
 [Repository](https://github.com/malkuth-software/gui_forms) ·
 [Documentation](https://gui-forms.readthedocs.io/) ·
