@@ -44,4 +44,28 @@
 - if i can do it better i will, optimized for use
 - https://asktog.com/atc/principles-of-interaction-design
 - https://myuxacademy.com/blog/nielsens-10-usability-heuristics/
+```
+Hi. I'm josh. I am the sole author here. $40 million in developer hours went into this project.
+They cost me all of my discretionary income and my time. 4 months, much of it spent making decisions, not coding.
+I have invested on faith. I would ask to be recompensed. God made this possible, and it belongs to him.
+It's free and open source. you could just take it and use it, if you're a rat bastard. 
+Or, you could help me compensate the time and effort I put into it. 
+I'm not looking for a glass of coffee. 
 
+I want retroactive pay. 4 million worth. In installments between $200 from indie devs, $20k from medium sized companies,
+and larger contributions on a first come first served basis. Every dollar does mishvot, every dollar does zakat. 
+I dont smoke, i wont gamble or drink, i'm not promiscuous or a criminal, and I keep the 10 commandments and sabbath.
+While all of this is true, i am also very poor, very lazy, unshowered, and fat. No woman has ever loved me.
+No - dont tell me to clean up. you're putting the cart in front of the horse. I strived for a long time.
+No reward came. I turned inward. I became monke. I am monke. If you want me to be chad, im going to need some gucci.
+Your contributions wouldnt be used to do more development on my software. I'm going to do that anyway.
+Instead they will justify effort towards unseen but hoped for good things. To do development on myself.
+I will experience some material benefit for my efforts and time, and you will fulfill the word of blessing.
+Don't be a rat bastard.
+
+Any questions you have for me you can bill as consulting hours.
+My consulting hourly rate is entirely contextual to your use and ability to pay.
+If you are microsoft-I will charge for 1 hour at 4 million dollars and agree to accept typical employee wage rates for all further hours.
+
+thank u for ur time and god bless
+```
